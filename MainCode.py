@@ -24,7 +24,7 @@ bmp.sea_level_pressure = int(bmp.pressure)
 
 altitude = 5
 pressure = 4
-temp = 1
+temp = 7
 
 camera = PiCamera()
 
